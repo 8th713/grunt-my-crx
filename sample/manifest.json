@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "sample",
+  "description": "",
+  "options_page": "empty.html"
+}

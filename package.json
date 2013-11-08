@@ -1,0 +1,36 @@
+{
+  "name": "grunt-my-crx",
+  "description": "Package a Chrome extensions.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/8th713/grunt-my-crx",
+  "author": {
+    "name": "8th713",
+    "url": "https://github.com/8th713"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/8th713/grunt-my-crx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/8th713/grunt-my-crx/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/8th713/grunt-my-crx/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt": "~0.4.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
